@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9C20D73522AC39B7007981FA /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C20D73422AC39B7007981FA /* CircleImage.swift */; };
+		9C20D73722AC3A64007981FA /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C20D73622AC3A64007981FA /* MapView.swift */; };
 		9CBED57B22AC35E0008C843E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBED57A22AC35E0008C843E /* AppDelegate.swift */; };
 		9CBED57D22AC35E0008C843E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBED57C22AC35E0008C843E /* SceneDelegate.swift */; };
 		9CBED57F22AC35E0008C843E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBED57E22AC35E0008C843E /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		9C20D73422AC39B7007981FA /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		9C20D73622AC3A64007981FA /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		9CBED57722AC35E0008C843E /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CBED57A22AC35E0008C843E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CBED57C22AC35E0008C843E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				9CBED57C22AC35E0008C843E /* SceneDelegate.swift */,
 				9CBED57E22AC35E0008C843E /* ContentView.swift */,
 				9C20D73422AC39B7007981FA /* CircleImage.swift */,
+				9C20D73622AC3A64007981FA /* MapView.swift */,
 				9CBED58022AC35E2008C843E /* Assets.xcassets */,
 				9CBED58522AC35E2008C843E /* LaunchScreen.storyboard */,
 				9CBED58822AC35E2008C843E /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				9CBED57B22AC35E0008C843E /* AppDelegate.swift in Sources */,
 				9C20D73522AC39B7007981FA /* CircleImage.swift in Sources */,
+				9C20D73722AC3A64007981FA /* MapView.swift in Sources */,
 				9CBED57D22AC35E0008C843E /* SceneDelegate.swift in Sources */,
 				9CBED57F22AC35E0008C843E /* ContentView.swift in Sources */,
 			);
